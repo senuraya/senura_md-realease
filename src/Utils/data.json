@@ -1,0 +1,1946 @@
+[
+  {
+    "3EB05704D30B766C781E25": [
+      {
+        "cmdId": "1",
+        "cmd": ".menu"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
+  },
+  {
+    "3EB032472DB3B34B2355A5": [
+      {
+        "cmdId": "1",
+        "cmd": ".list 1"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".list 2"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".list 3"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".list 4"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".list 5"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".list 6"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".list 7"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".list 8"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".list 9"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".list 10"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".list 10"
+      }
+    ]
+  },
+  {
+    "3EB03997A1F040C9838F06": [
+      {
+        "cmdId": "1",
+        "cmd": ".list 1"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".list 2"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".list 3"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".list 4"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".list 5"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".list 6"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".list 7"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".list 8"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".list 9"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".list 10"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".list 10"
+      }
+    ]
+  },
+  {
+    "3EB00F87C86174019410BB": [
+      {
+        "cmdId": "1",
+        "cmd": ".movie https://cinesubz.net/movies/radheyaa-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".movie https://cinesubz.net/movies/dhandoraa-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".movie https://cinesubz.net/movies/the-tank-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".movie https://cinesubz.net/movies/sniper-the-last-stand-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".movie https://cinesubz.net/movies/nikita-roy-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".movie https://cinesubz.net/movies/mahavatar-narsimha-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".movie https://cinesubz.net/movies/kalamkaval-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".movie https://cinesubz.net/movies/dust-bunny-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".movie https://cinesubz.net/movies/my-fault-london-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".movie https://cinesubz.net/movies/yellow-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".movie https://cinesubz.net/movies/sirai-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "12",
+        "cmd": ".movie https://cinesubz.net/movies/mahasenha-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "13",
+        "cmd": ".movie https://cinesubz.net/movies/leech-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "14",
+        "cmd": ".movie https://cinesubz.net/movies/angammal-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "15",
+        "cmd": ".movie https://cinesubz.net/movies/udaala-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "16",
+        "cmd": ".movie https://cinesubz.net/movies/playdate-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "17",
+        "cmd": ".movie https://cinesubz.net/movies/left-handed-girl-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "18",
+        "cmd": ".movie https://cinesubz.net/movies/jay-kelly-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "19",
+        "cmd": ".movie https://cinesubz.net/movies/de-de-pyaar-de-2-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "20",
+        "cmd": ".movie https://cinesubz.net/movies/akhanda-2-thaandavam-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "21",
+        "cmd": ".movie https://cinesubz.net/movies/mask-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "22",
+        "cmd": ".movie https://cinesubz.net/movies/fackham-hall-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "23",
+        "cmd": ".movie https://cinesubz.net/movies/sorry-baby-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "24",
+        "cmd": ".movie https://cinesubz.net/movies/shambhala-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "25",
+        "cmd": ".movie https://cinesubz.net/movies/p77-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "26",
+        "cmd": ".movie https://cinesubz.net/movies/london-calling-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "27",
+        "cmd": ".movie https://cinesubz.net/movies/kumki-2-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "28",
+        "cmd": ".movie https://cinesubz.net/movies/heer-express-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "29",
+        "cmd": ".movie https://cinesubz.net/movies/elumale-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "30",
+        "cmd": ".movie https://cinesubz.net/movies/dhurandhar-2025-sinhala-subtitles/ & Movie"
+      }
+    ]
+  },
+  {
+    "3EB0E7A0332E3D6792DFF4": [
+      {
+        "cmdId": "1",
+        "cmd": ".download https://cinesubz.net/zt-links/d8ompco9od/ & https://cinesubz.net/movies/radheyaa-2025-sinhala-subtitles/ & WEB-DL 480p"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".download https://cinesubz.net/zt-links/gdltju6t6v/ & https://cinesubz.net/movies/radheyaa-2025-sinhala-subtitles/ & WEB-DL 720p"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".download https://cinesubz.net/zt-links/ryj2lw9kar/ & https://cinesubz.net/movies/radheyaa-2025-sinhala-subtitles/ & WEB-DL 1080p"
+      }
+    ]
+  },
+  {
+    "3EB08EBFCB13A700C3E083": [
+      {
+        "cmdId": "1",
+        "cmd": ".menu"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
+  },
+  {
+    "3EB0DB11849C13004CC061": [
+      {
+        "cmdId": "1",
+        "cmd": ".menu"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".ping"
+      }
+    ]
+  },
+  {
+    "3EB027E1A00F3738C66E0E": [
+      {
+        "cmdId": "1",
+        "cmd": ".movie https://cinesubz.lk/movies/good-news-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".movie https://cinesubz.lk/tvshows/my-new-boss-is-goofy-2023-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".movie https://cinesubz.lk/movies/new-gods-nezha-reborn-2021-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".movie https://cinesubz.lk/movies/captain-america-brave-new-world-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".movie https://cinesubz.lk/tvshows/newtopia-2025-tv-series-sinhala-subtitles/ & TV Show"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".movie https://cinesubz.lk/movies/bad-newz-2024-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".movie https://cinesubz.lk/movies/new-gods-yang-jian-2022-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".movie https://cinesubz.lk/movies/godzilla-x-kong-the-new-empire-2024-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".movie https://cinesubz.lk/movies/new-telegram-channel-join-here/ & Movie"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".movie https://cinesubz.lk/movies/home-alone-2-lost-in-new-york-1992-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".movie https://cinesubz.lk/movies/star-wars-episode-4-a-new-hope-1977-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "12",
+        "cmd": ".movie https://cinesubz.lk/movies/the-man-who-knew-infinity-2016-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "13",
+        "cmd": ".movie https://cinesubz.lk/movies/the-new-world-2005-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "14",
+        "cmd": ".movie https://cinesubz.lk/movies/friday-the-13th-part-vii-the-new-blood-1988sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "15",
+        "cmd": ".movie https://cinesubz.lk/movies/our-new-telegram-channel/ & Movie"
+      },
+      {
+        "cmdId": "16",
+        "cmd": ".movie https://cinesubz.lk/tvshows/brand-new-cherry-flavor-2021-complete-tv-series-with-sinhala-sub/ & TV Show"
+      },
+      {
+        "cmdId": "17",
+        "cmd": ".movie https://cinesubz.lk/movies/good-newwz-2019-sinhala-sub/ & Movie"
+      },
+      {
+        "cmdId": "18",
+        "cmd": ".movie https://cinesubz.lk/movies/newness-2017-sinhala-sub/ & Movie"
+      },
+      {
+        "cmdId": "19",
+        "cmd": ".movie https://cinesubz.lk/movies/happy-new-year-2014-sinhala-sub/ & Movie"
+      },
+      {
+        "cmdId": "20",
+        "cmd": ".movie https://cinesubz.lk/movies/my-little-pony-a-new-generation-2021-sinhala-sub/ & Movie"
+      },
+      {
+        "cmdId": "21",
+        "cmd": ".movie https://cinesubz.lk/movies/the-new-mutants-2020-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "22",
+        "cmd": ".movie https://cinesubz.lk/movies/the-twilight-saga-new-moon-2009-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "23",
+        "cmd": ".movie https://cinesubz.lk/movies/space-jam-a-new-legacy-2021-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "24",
+        "cmd": ".movie https://cinesubz.lk/movies/the-croods-a-new-age-2020-with-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "25",
+        "cmd": ".movie https://cinesubz.lk/movies/news-of-the-world-2020-with-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "26",
+        "cmd": ".movie https://cinesubz.lk/movies/jolly-llb-3-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "27",
+        "cmd": ".movie https://cinesubz.lk/movies/weapons-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "28",
+        "cmd": ".movie https://cinesubz.lk/movies/fatal-journey-2020-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "29",
+        "cmd": ".movie https://cinesubz.lk/movies/ne-zha-2-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "30",
+        "cmd": ".movie https://cinesubz.lk/movies/28-years-later-2025-sinhala-subtitles/ & Movie"
+      }
+    ]
+  },
+  {
+    "3EB0599F1915088073DF7A": [
+      {
+        "cmdId": "1.1",
+        "cmd": ".download https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/vcddomwtho/ & https://cinesubz.lk/movies/good-news-2025-sinhala-subtitles/ & WEBRip 480p & pix"
+      },
+      {
+        "cmdId": "1.2",
+        "cmd": ".download https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/wniqaemod1/ & https://cinesubz.lk/movies/good-news-2025-sinhala-subtitles/ & WEBRip 720p & pix"
+      },
+      {
+        "cmdId": "1.3",
+        "cmd": ".download https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/rsvhnrc980/ & https://cinesubz.lk/movies/good-news-2025-sinhala-subtitles/ & WEBRip 1080p & pix"
+      },
+      {
+        "cmdId": "2.1",
+        "cmd": ".download https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/vcddomwtho/ & https://cinesubz.lk/movies/good-news-2025-sinhala-subtitles/ & WEBRip 480p & google"
+      },
+      {
+        "cmdId": "2.2",
+        "cmd": ".download https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/wniqaemod1/ & https://cinesubz.lk/movies/good-news-2025-sinhala-subtitles/ & WEBRip 720p & google"
+      },
+      {
+        "cmdId": "2.3",
+        "cmd": ".download https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/rsvhnrc980/ & https://cinesubz.lk/movies/good-news-2025-sinhala-subtitles/ & WEBRip 1080p & google"
+      }
+    ]
+  },
+  {
+    "3EB033033E74A5F158885D": [
+      {
+        "cmdId": "1",
+        "cmd": ".movie https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & TV Show"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".movie https://cinesubz.lk/movies/ghost-2023-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".movie https://cinesubz.lk/movies/prisoners-2013-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".movie https://cinesubz.lk/movies/ant-man-and-the-wasp-quantumania-2023-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".movie https://cinesubz.lk/movies/thor-love-and-thunder-2022-sinhala-sub/ & Movie"
+      }
+    ]
+  },
+  {
+    "3EB08DECF3C72270DA7458": [
+      {
+        "cmdId": "1",
+        "cmd": ".cineshow 0 & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".cineshow 1 & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/"
+      }
+    ]
+  },
+  {
+    "3EB0074F39842F76A5DE4C": [
+      {
+        "cmdId": "1",
+        "cmd": ".downloadshowquality https://cinesubz.net/episodes/loki-1x1/ & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".downloadshowquality https://cinesubz.net/episodes/loki-1x2/ & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".downloadshowquality https://cinesubz.net/episodes/loki-1x3/ & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".downloadshowquality https://cinesubz.net/episodes/loki-1x4/ & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".downloadshowquality https://cinesubz.net/episodes/loki-1x5/ & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".downloadshowquality https://cinesubz.net/episodes/loki-1x6/ & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".downloadallshowquality 0 & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg"
+      }
+    ]
+  },
+  {
+    "3EB01EBB9E216FE4B8E9CA": [
+      {
+        "cmdId": "1.1",
+        "cmd": ".downloadshow https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/dlddiignke/ & https://cinesubz.net/episodes/loki-1x1/ & 480p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & pix"
+      },
+      {
+        "cmdId": "1.2",
+        "cmd": ".downloadshow https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/hdjotvw79h/ & https://cinesubz.net/episodes/loki-1x1/ & 720p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & pix"
+      },
+      {
+        "cmdId": "1.3",
+        "cmd": ".downloadshow https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/nxms1wkr5i/ & https://cinesubz.net/episodes/loki-1x1/ & 1080p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & pix"
+      },
+      {
+        "cmdId": "2.1",
+        "cmd": ".downloadshow https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/dlddiignke/ & https://cinesubz.net/episodes/loki-1x1/ & 480p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & google"
+      },
+      {
+        "cmdId": "2.2",
+        "cmd": ".downloadshow https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/hdjotvw79h/ & https://cinesubz.net/episodes/loki-1x1/ & 720p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & google"
+      },
+      {
+        "cmdId": "2.3",
+        "cmd": ".downloadshow https://cinesubz.net/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/nxms1wkr5i/ & https://cinesubz.net/episodes/loki-1x1/ & 1080p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & google"
+      }
+    ]
+  },
+  {
+    "3EB01EA0ED55EFC4169D57": [
+      {
+        "cmdId": "1.1",
+        "cmd": ".cineshowalldl 0 & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & 480p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & pix"
+      },
+      {
+        "cmdId": "1.2",
+        "cmd": ".cineshowalldl 0 & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & 720p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & pix"
+      },
+      {
+        "cmdId": "1.3",
+        "cmd": ".cineshowalldl 0 & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & 1080p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & pix"
+      },
+      {
+        "cmdId": "2.1",
+        "cmd": ".cineshowalldl 0 & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & 480p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & google"
+      },
+      {
+        "cmdId": "2.2",
+        "cmd": ".cineshowalldl 0 & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & 720p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & google"
+      },
+      {
+        "cmdId": "2.3",
+        "cmd": ".cineshowalldl 0 & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & 1080p & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg & google"
+      },
+      {
+        "cmdId": "3.1",
+        "cmd": "cineshowepisodes 0 & https://cinesubz.lk/tvshows/loki-2023-tv-s01-s02/ & https://cinesubz.net/wp-content/uploads/2021/07/F6fsEf_WYAE6ioj.jpg"
+      }
+    ]
+  },
+  {
+    "3EB0465567F9B2587B35AD": [
+      {
+        "cmdId": "1",
+        "cmd": ".list 1"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".list 2"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".list 3"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".list 4"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".list 5"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".list 6"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".list 7"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".list 8"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".list 9"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".list 10"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".list 10"
+      }
+    ]
+  },
+  {
+    "3EB06DD894FA66FD352233": [
+      {
+        "cmdId": "1",
+        "cmd": ".list 1"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".list 2"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".list 3"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".list 4"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".list 5"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".list 6"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".list 7"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".list 8"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".list 9"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".list 10"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".list 10"
+      }
+    ]
+  },
+  {
+    "3EB0043AB47121AEB355D4": [
+      {
+        "cmdId": "1",
+        "cmd": ".movie https://cinesubz.lk/tvshows/american-primeval-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".movie https://cinesubz.lk/movies/the-spongebob-movie-search-for-squarepants-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".movie https://cinesubz.lk/movies/rental-family-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".movie https://cinesubz.lk/movies/murderer-report-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".movie https://cinesubz.lk/movies/jigris-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".movie https://cinesubz.lk/movies/gurram-paapi-reddy-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".movie https://cinesubz.lk/movies/bha-bha-ba-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".movie https://cinesubz.lk/movies/bank-of-bhagyalakshmi-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".movie https://cinesubz.lk/movies/radheyaa-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".movie https://cinesubz.lk/movies/dhandoraa-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".movie https://cinesubz.lk/movies/the-tank-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "12",
+        "cmd": ".movie https://cinesubz.lk/movies/sniper-the-last-stand-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "13",
+        "cmd": ".movie https://cinesubz.lk/movies/nikita-roy-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "14",
+        "cmd": ".movie https://cinesubz.lk/movies/mahavatar-narsimha-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "15",
+        "cmd": ".movie https://cinesubz.lk/movies/kalamkaval-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "16",
+        "cmd": ".movie https://cinesubz.lk/movies/dust-bunny-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "17",
+        "cmd": ".movie https://cinesubz.lk/movies/my-fault-london-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "18",
+        "cmd": ".movie https://cinesubz.lk/movies/yellow-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "19",
+        "cmd": ".movie https://cinesubz.lk/movies/sirai-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "20",
+        "cmd": ".movie https://cinesubz.lk/movies/mahasenha-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "21",
+        "cmd": ".movie https://cinesubz.lk/movies/leech-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "22",
+        "cmd": ".movie https://cinesubz.lk/movies/angammal-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "23",
+        "cmd": ".movie https://cinesubz.lk/movies/udaala-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "24",
+        "cmd": ".movie https://cinesubz.lk/movies/playdate-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "25",
+        "cmd": ".movie https://cinesubz.lk/movies/left-handed-girl-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "26",
+        "cmd": ".movie https://cinesubz.lk/movies/jay-kelly-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "27",
+        "cmd": ".movie https://cinesubz.lk/movies/de-de-pyaar-de-2-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "28",
+        "cmd": ".movie https://cinesubz.lk/movies/akhanda-2-thaandavam-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "29",
+        "cmd": ".movie https://cinesubz.lk/movies/mask-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "30",
+        "cmd": ".movie https://cinesubz.lk/movies/fackham-hall-2025-sinhala-subtitles/ & Movie"
+      }
+    ]
+  },
+  {
+    "3EB0DB65CF939D05CED547": [
+      {
+        "cmdId": "1.1",
+        "cmd": ".download https://cinesubz.lk/zt-links/3yrv7zfmuo/ & https://cinesubz.lk/movies/dust-bunny-2025-sinhala-subtitles/ & WEB-DL 480p & pix"
+      },
+      {
+        "cmdId": "1.2",
+        "cmd": ".download https://cinesubz.lk/zt-links/90mkvylp9w/ & https://cinesubz.lk/movies/dust-bunny-2025-sinhala-subtitles/ & WEB-DL 720p & pix"
+      },
+      {
+        "cmdId": "1.3",
+        "cmd": ".download https://cinesubz.lk/zt-links/8pirt7wkic/ & https://cinesubz.lk/movies/dust-bunny-2025-sinhala-subtitles/ & WEB-DL 1080p & pix"
+      },
+      {
+        "cmdId": "2.1",
+        "cmd": ".download https://cinesubz.lk/zt-links/3yrv7zfmuo/ & https://cinesubz.lk/movies/dust-bunny-2025-sinhala-subtitles/ & WEB-DL 480p & google"
+      },
+      {
+        "cmdId": "2.2",
+        "cmd": ".download https://cinesubz.lk/zt-links/90mkvylp9w/ & https://cinesubz.lk/movies/dust-bunny-2025-sinhala-subtitles/ & WEB-DL 720p & google"
+      },
+      {
+        "cmdId": "2.3",
+        "cmd": ".download https://cinesubz.lk/zt-links/8pirt7wkic/ & https://cinesubz.lk/movies/dust-bunny-2025-sinhala-subtitles/ & WEB-DL 1080p & google"
+      }
+    ]
+  },
+  {
+    "3EB0A6F557E3A8FAED6287": [
+      {
+        "cmdId": "1",
+        "cmd": ".list 1"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".list 2"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".list 3"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".list 4"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".list 5"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".list 6"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".list 7"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".list 8"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".list 9"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".list 10"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".list 10"
+      }
+    ]
+  },
+  {
+    "3EB0CF132B9FD70A1F57F8": [
+      {
+        "cmdId": "1",
+        "cmd": ".list 1"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".list 2"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".list 3"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".list 4"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".list 5"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".list 6"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".list 7"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".list 8"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".list 9"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".list 10"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".list 10"
+      }
+    ]
+  },
+  {
+    "3EB08FFAA1206508FA93D9": [
+      {
+        "cmdId": "1",
+        "cmd": ".yt2s https://youtube.com/watch?v=q5T__2Tjo4U & 144"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".yt2s https://youtube.com/watch?v=q5T__2Tjo4U & 360"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".yt2s https://youtube.com/watch?v=q5T__2Tjo4U & 480"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".yt2s https://youtube.com/watch?v=q5T__2Tjo4U & 720"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".yt2s https://youtube.com/watch?v=q5T__2Tjo4U & 1080"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".yt3s https://youtube.com/watch?v=q5T__2Tjo4U & 144"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".yt3s https://youtube.com/watch?v=q5T__2Tjo4U & 360"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".yt3s https://youtube.com/watch?v=q5T__2Tjo4U & 480"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".yt3s https://youtube.com/watch?v=q5T__2Tjo4U & 720"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".yt3s https://youtube.com/watch?v=q5T__2Tjo4U & 1080"
+      }
+    ]
+  },
+  {
+    "3EB00872F991FF2180440C": [
+      {
+        "cmdId": "1",
+        "cmd": ".yt2s https://youtube.com/watch?v=JFXNuVoVw1Q & 144"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".yt2s https://youtube.com/watch?v=JFXNuVoVw1Q & 360"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".yt2s https://youtube.com/watch?v=JFXNuVoVw1Q & 480"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".yt2s https://youtube.com/watch?v=JFXNuVoVw1Q & 720"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".yt2s https://youtube.com/watch?v=JFXNuVoVw1Q & 1080"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".yt3s https://youtube.com/watch?v=JFXNuVoVw1Q & 144"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".yt3s https://youtube.com/watch?v=JFXNuVoVw1Q & 360"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".yt3s https://youtube.com/watch?v=JFXNuVoVw1Q & 480"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".yt3s https://youtube.com/watch?v=JFXNuVoVw1Q & 720"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".yt3s https://youtube.com/watch?v=JFXNuVoVw1Q & 1080"
+      }
+    ]
+  },
+  {
+    "3EB06C401E4CB224A0AA1C": [
+      {
+        "cmdId": "1",
+        "cmd": ".songdl https://youtube.com/watch?v=vtYNH2ADHGI"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".songdl https://youtube.com/watch?v=HoJiAbX9TY8"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".songdl https://youtube.com/watch?v=7Nb0-WbThq4"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".songdl https://youtube.com/watch?v=o2p65LUo24s"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".songdl https://youtube.com/watch?v=evGBmfp6sJY"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".songdl https://youtube.com/watch?v=II77Tx3R46o"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".songdl https://youtube.com/watch?v=3_T2BjvBnW0"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".songdl https://youtube.com/watch?v=W1AI5udsT4E"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".songdl https://youtube.com/watch?v=0bPoHyQ4V3A"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".songdl https://youtube.com/watch?v=WcQA791sYrA"
+      }
+    ]
+  },
+  {
+    "3EB0D40AF4ED296E47E154": [
+      {
+        "cmdId": "1",
+        "cmd": ".yt1s https://youtube.com/watch?v=vtYNH2ADHGI & 1"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".yt1s https://youtube.com/watch?v=vtYNH2ADHGI & 2"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".yt1s https://youtube.com/watch?v=vtYNH2ADHGI & 3"
+      }
+    ]
+  },
+  {
+    "3EB0651EE1559FD9686729": [
+      {
+        "cmdId": "1",
+        "cmd": ".songdl https://youtube.com/watch?v=hNm8pTLCY_M"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".songdl https://youtube.com/watch?v=lAfN7r8K15M"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".songdl https://youtube.com/watch?v=UFa7FCPCfVU"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".songdl https://youtube.com/watch?v=Rgli8vqPk6w"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".songdl https://youtube.com/watch?v=SBz7nkz58ZQ"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".songdl https://youtube.com/watch?v=U5uD7dbT39A"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".songdl https://youtube.com/watch?v=2tXVDViSEJk"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".songdl https://youtube.com/watch?v=0ZJ6OD4BgaU"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".songdl https://youtube.com/watch?v=Av6YkW8xc-s"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".songdl https://youtube.com/watch?v=1S-2JQavhjo"
+      }
+    ]
+  },
+  {
+    "3EB02568D36F123015AEE4": [
+      {
+        "cmdId": "1",
+        "cmd": ".yt1s https://youtube.com/watch?v=SBz7nkz58ZQ & 1"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".yt1s https://youtube.com/watch?v=SBz7nkz58ZQ & 2"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".yt1s https://youtube.com/watch?v=SBz7nkz58ZQ & 3"
+      }
+    ]
+  },
+  {
+    "3EB0C21EE084908D0174F0": [
+      {
+        "cmdId": "1",
+        "cmd": ".yt1s https://youtube.com/watch?v=2tXVDViSEJk & 1"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".yt1s https://youtube.com/watch?v=2tXVDViSEJk & 2"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".yt1s https://youtube.com/watch?v=2tXVDViSEJk & 3"
+      }
+    ]
+  },
+  {
+    "3EB05406C65FF0499ACD81": [
+      {
+        "cmdId": "1",
+        "cmd": ".movie https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".movie https://cinesubz.lk/movies/sarvam-maya-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".movie https://cinesubz.lk/movies/mastiii-4-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".movie https://cinesubz.lk/tvshows/the-girlfriend-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".movie https://cinesubz.lk/tvshows/the-copenhagen-test-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".movie https://cinesubz.lk/movies/anaconda-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".movie https://cinesubz.lk/movies/merrily-we-roll-along-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".movie https://cinesubz.lk/movies/zootopia-2-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".movie https://cinesubz.lk/movies/the-witcher-sirens-of-the-deep-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".movie https://cinesubz.lk/movies/the-orphans-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".movie https://cinesubz.lk/movies/the-mastermind-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "12",
+        "cmd": ".movie https://cinesubz.lk/movies/tere-ishk-mein-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "13",
+        "cmd": ".movie https://cinesubz.lk/movies/sirai-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "14",
+        "cmd": ".movie https://cinesubz.lk/movies/rippan-swamy-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "15",
+        "cmd": ".movie https://cinesubz.lk/movies/retta-thala-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "16",
+        "cmd": ".movie https://cinesubz.lk/movies/red-plague-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "17",
+        "cmd": ".movie https://cinesubz.lk/movies/randaam-yaamam-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "18",
+        "cmd": ".movie https://cinesubz.lk/movies/mark-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "19",
+        "cmd": ".movie https://cinesubz.lk/movies/itlu-me-yedhava-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "20",
+        "cmd": ".movie https://cinesubz.lk/movies/fall-for-me-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "21",
+        "cmd": ".movie https://cinesubz.lk/movies/ennitte-enthayi-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "22",
+        "cmd": ".movie https://cinesubz.lk/movies/dont-come-here-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "23",
+        "cmd": ".movie https://cinesubz.lk/movies/shambhala-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "24",
+        "cmd": ".movie https://cinesubz.lk/tvshows/the-hunting-party-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "25",
+        "cmd": ".movie https://cinesubz.lk/tvshows/idol-i-2025-tv-series-s01/ & TV Show"
+      },
+      {
+        "cmdId": "26",
+        "cmd": ".movie https://cinesubz.lk/tvshows/american-primeval-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "27",
+        "cmd": ".movie https://cinesubz.lk/movies/the-spongebob-movie-search-for-squarepants-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "28",
+        "cmd": ".movie https://cinesubz.lk/movies/rental-family-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "29",
+        "cmd": ".movie https://cinesubz.lk/movies/murderer-report-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "30",
+        "cmd": ".movie https://cinesubz.lk/movies/jigris-2025-sinhala-subtitles/ & Movie"
+      }
+    ]
+  },
+  {
+    "3EB0463EF01E0DF515FA59": [
+      {
+        "cmdId": "1.1",
+        "cmd": ".download https://cinesubz.lk/zt-links/rkt0zo9t99/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 480p & pix"
+      },
+      {
+        "cmdId": "1.2",
+        "cmd": ".download https://cinesubz.lk/zt-links/vlqz2bmqnc/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 720p & pix"
+      },
+      {
+        "cmdId": "1.3",
+        "cmd": ".download https://cinesubz.lk/zt-links/ho4ut6ukfy/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 1080p & pix"
+      },
+      {
+        "cmdId": "2.1",
+        "cmd": ".download https://cinesubz.lk/zt-links/rkt0zo9t99/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 480p & google"
+      },
+      {
+        "cmdId": "2.2",
+        "cmd": ".download https://cinesubz.lk/zt-links/vlqz2bmqnc/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 720p & google"
+      },
+      {
+        "cmdId": "2.3",
+        "cmd": ".download https://cinesubz.lk/zt-links/ho4ut6ukfy/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 1080p & google"
+      }
+    ]
+  },
+  {
+    "3EB0E65E2519A23768873F": [
+      {
+        "cmdId": "1",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/dhurandhar-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/sarvam-maya-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/the-secret-of-women-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".slsubinfo https://sinhalasub.lk/tvshows/fallout-2024-sinhala-subtitles/ & TV Show"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".slsubinfo https://sinhalasub.lk/tvshows/spartacus-house-of-ashur-2025-sinhala-subtitles/ & TV Show"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/anaconda-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/oru-jaathi-jaathakam-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/kudumbasthan-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/zootopia-2-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/rippan-swamy-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/deva-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "12",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/itlu-me-yedhava-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "13",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/mahasenha-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "14",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/batman-ninja-vs-yakuza-league-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "15",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/nilavuku-en-mel-ennadi-kobam-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "16",
+        "cmd": ".slsubinfo https://sinhalasub.lk/movies/dont-come-here-2025-sinhala-subtitles/ & Movie"
+      }
+    ]
+  },
+  {
+    "3EB02B4FE63234D10FF960": [
+      {
+        "cmdId": "1",
+        "cmd": ".slsubdl https://sinhalasub.lk/links/caitenn1q7/ & https://sinhalasub.lk/movies/dhurandhar-2025-sinhala-subtitles/ & FHD 1080p"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".slsubdl https://sinhalasub.lk/links/oiy7ftb68p/ & https://sinhalasub.lk/movies/dhurandhar-2025-sinhala-subtitles/ & HD 720p"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".slsubdl https://sinhalasub.lk/links/i2l16558nr/ & https://sinhalasub.lk/movies/dhurandhar-2025-sinhala-subtitles/ & SD 480p"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".slsubdl https://sinhalasub.lk/links/kgksj56mcm/ & https://sinhalasub.lk/movies/dhurandhar-2025-sinhala-subtitles/ & FHD 1080p"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".slsubdl https://sinhalasub.lk/links/nvosaf82q5/ & https://sinhalasub.lk/movies/dhurandhar-2025-sinhala-subtitles/ & HD 720p"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".slsubdl https://sinhalasub.lk/links/jtma78aovf/ & https://sinhalasub.lk/movies/dhurandhar-2025-sinhala-subtitles/ & SD 480p"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".slsubdl https://sinhalasub.lk/links/i76q2kcrba/ & https://sinhalasub.lk/movies/dhurandhar-2025-sinhala-subtitles/ & FHD 1080p"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".slsubdl https://sinhalasub.lk/links/vbsz6hfebz/ & https://sinhalasub.lk/movies/dhurandhar-2025-sinhala-subtitles/ & HD 720p"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".slsubdl https://sinhalasub.lk/links/skhc0adiyx/ & https://sinhalasub.lk/movies/dhurandhar-2025-sinhala-subtitles/ & SD 480p"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".slsubdl https://sinhalasub.lk/links/oc9fe42tb5/ & https://sinhalasub.lk/movies/dhurandhar-2025-sinhala-subtitles/ & Subtitles"
+      }
+    ]
+  },
+  {
+    "3EB092AFD536AEF1AE52DB": [
+      {
+        "cmdId": "1",
+        "cmd": ".movie https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".movie https://cinesubz.lk/movies/sarvam-maya-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".movie https://cinesubz.lk/movies/mastiii-4-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".movie https://cinesubz.lk/tvshows/the-girlfriend-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".movie https://cinesubz.lk/tvshows/the-copenhagen-test-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".movie https://cinesubz.lk/movies/anaconda-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".movie https://cinesubz.lk/movies/merrily-we-roll-along-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".movie https://cinesubz.lk/movies/zootopia-2-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".movie https://cinesubz.lk/movies/the-witcher-sirens-of-the-deep-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".movie https://cinesubz.lk/movies/the-orphans-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".movie https://cinesubz.lk/movies/the-mastermind-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "12",
+        "cmd": ".movie https://cinesubz.lk/movies/tere-ishk-mein-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "13",
+        "cmd": ".movie https://cinesubz.lk/movies/sirai-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "14",
+        "cmd": ".movie https://cinesubz.lk/movies/rippan-swamy-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "15",
+        "cmd": ".movie https://cinesubz.lk/movies/retta-thala-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "16",
+        "cmd": ".movie https://cinesubz.lk/movies/red-plague-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "17",
+        "cmd": ".movie https://cinesubz.lk/movies/randaam-yaamam-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "18",
+        "cmd": ".movie https://cinesubz.lk/movies/mark-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "19",
+        "cmd": ".movie https://cinesubz.lk/movies/itlu-me-yedhava-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "20",
+        "cmd": ".movie https://cinesubz.lk/movies/fall-for-me-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "21",
+        "cmd": ".movie https://cinesubz.lk/movies/ennitte-enthayi-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "22",
+        "cmd": ".movie https://cinesubz.lk/movies/dont-come-here-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "23",
+        "cmd": ".movie https://cinesubz.lk/movies/shambhala-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "24",
+        "cmd": ".movie https://cinesubz.lk/tvshows/the-hunting-party-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "25",
+        "cmd": ".movie https://cinesubz.lk/tvshows/idol-i-2025-tv-series-s01/ & TV Show"
+      },
+      {
+        "cmdId": "26",
+        "cmd": ".movie https://cinesubz.lk/tvshows/american-primeval-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "27",
+        "cmd": ".movie https://cinesubz.lk/movies/the-spongebob-movie-search-for-squarepants-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "28",
+        "cmd": ".movie https://cinesubz.lk/movies/rental-family-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "29",
+        "cmd": ".movie https://cinesubz.lk/movies/murderer-report-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "30",
+        "cmd": ".movie https://cinesubz.lk/movies/jigris-2025-sinhala-subtitles/ & Movie"
+      }
+    ]
+  },
+  {
+    "3EB014E3C46028F953D169": [
+      {
+        "cmdId": "1.1",
+        "cmd": ".download https://cinesubz.lk/zt-links/73moj5w74f/ & https://cinesubz.lk/movies/tere-ishk-mein-2025-sinhala-subtitles/ & WEB-DL 480p & pix"
+      },
+      {
+        "cmdId": "1.2",
+        "cmd": ".download https://cinesubz.lk/zt-links/jvwby5e7xn/ & https://cinesubz.lk/movies/tere-ishk-mein-2025-sinhala-subtitles/ & WEB-DL 720p & pix"
+      },
+      {
+        "cmdId": "1.3",
+        "cmd": ".download https://cinesubz.lk/zt-links/llako10m6f/ & https://cinesubz.lk/movies/tere-ishk-mein-2025-sinhala-subtitles/ & WEB-DL 1080p & pix"
+      },
+      {
+        "cmdId": "2.1",
+        "cmd": ".download https://cinesubz.lk/zt-links/73moj5w74f/ & https://cinesubz.lk/movies/tere-ishk-mein-2025-sinhala-subtitles/ & WEB-DL 480p & google"
+      },
+      {
+        "cmdId": "2.2",
+        "cmd": ".download https://cinesubz.lk/zt-links/jvwby5e7xn/ & https://cinesubz.lk/movies/tere-ishk-mein-2025-sinhala-subtitles/ & WEB-DL 720p & google"
+      },
+      {
+        "cmdId": "2.3",
+        "cmd": ".download https://cinesubz.lk/zt-links/llako10m6f/ & https://cinesubz.lk/movies/tere-ishk-mein-2025-sinhala-subtitles/ & WEB-DL 1080p & google"
+      }
+    ]
+  },
+  {
+    "3EB059F6B6C85596E068C0": [
+      {
+        "cmdId": "1",
+        "cmd": ".fbhd https://video-sin2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN38GZTJZ3uGHtHXawE62rxLox5sTAZSPRT7WiIpSkv3y8Ck-QU9UM-A1kRoCI2phehBRuk2K7E-ruoKDu8kRNEjHsU6DCZdYhFLaSFdA.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-sin2-1.xx.fbcdn.net&_nc_ohc=8-KnkRKWYtQQ7kNvwENi5TC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjAzMDE5OTQ4MTA5MDMzMSwiYXNzZXRfYWdlX2RheXMiOjI4LCJ2aV91c2VjYXNlX2lkIjoxMDEyMywiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=De6-cBy5aHUrwEAp5i2rFQ&_nc_zt=28&oh=00_AfsPB1Rb_WZX1cL8E1M1NtXMNimrauMkrEtK-OptQWzmJg&oe=6984DA6C&bitrate=175111&tag=sve_sd"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".fbhd https://video-sin11-2.xx.fbcdn.net/o1/v/t2/f2/m366/AQNxnqS9brulrXFfPW5_fY9r2doSAa83AgqihUdvEZrXEJvIwe4wfygY5y4crBUTV7y0uwjZP3-krHu4mihhc2SsQbcaXqRRXzupdsLO2xzBHQ.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=video-sin11-2.xx.fbcdn.net&_nc_ohc=G81O7kItILUQ7kNvwEFNzVh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMzAxOTk0ODEwOTAzMzEsImFzc2V0X2FnZV9kYXlzIjoyOCwidmlfdXNlY2FzZV9pZCI6MTAxMjMsImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3821803be28de106&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMDRENTJGQjZCMjUwQzI4RjMxRjU4MDFCRDJBN0E4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y4NDcxNzVGNzFCQ0VBRUM3M0M2NjQ3Mjg1OTVCNDg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa2hKbulJ2bBxUCKAJDMywXQCVmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZaeAQA&_nc_gid=De6-cBy5aHUrwEAp5i2rFQ&_nc_zt=28&oh=00_AfvHoU2cLtp9h-zZJXwha4QJHYzHX49xYuvxjfVe3ZtdXw&oe=6984B9F7&bitrate=398615&tag=dash_h264-basic-gen2_720p"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".ta https://video-sin2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQN38GZTJZ3uGHtHXawE62rxLox5sTAZSPRT7WiIpSkv3y8Ck-QU9UM-A1kRoCI2phehBRuk2K7E-ruoKDu8kRNEjHsU6DCZdYhFLaSFdA.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-sin2-1.xx.fbcdn.net&_nc_ohc=8-KnkRKWYtQQ7kNvwENi5TC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjAzMDE5OTQ4MTA5MDMzMSwiYXNzZXRfYWdlX2RheXMiOjI4LCJ2aV91c2VjYXNlX2lkIjoxMDEyMywiZHVyYXRpb25fcyI6MTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=De6-cBy5aHUrwEAp5i2rFQ&_nc_zt=28&oh=00_AfsPB1Rb_WZX1cL8E1M1NtXMNimrauMkrEtK-OptQWzmJg&oe=6984DA6C&bitrate=175111&tag=sve_sd"
+      }
+    ]
+  },
+  {
+    "3EB083B959B7B030C35CCF": [
+      {
+        "cmdId": "1",
+        "cmd": ".tnw http://cdn-1.lovetik.com/tiktok-dl.php?file=yqH8EA%2BaJuelBNWYD8w3hUA0ZhskBxiS8R78jNoNvNTAkDOHRPHh%2FXaLPz%2BBgLcxpgm0jFzwEYJcx7B1&finfo=g7%2FnAkmHKb3yQIGBX5BimBFkPEpzHVjJogOyj8ARvI2RkV6GRvOhk2qLMT6BhakzuF3v2VirWsMNg%2Bt037H33gGDAiBRD24b%2B%2BdRQGC4T%2Bnq7MUGTEMO7oK06ubD5Vj813laGVVl2CJFbu3jLwBdeEYTLaZ71K70V9BDc3TFIZ9iahVhL5imadhZBtEkb5VWRA1ZL%2FK8veXA"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".tww http://cdn-1.lovetik.com/tiktok-dl.php?file=yqH8EA%2BaJuelBNWYD8w3hUA0ZhskBxiS8R78jNoNvNTAkDOHRPHh%2FXaLPz%2BBgLcxpgm0jFzwEYJcx7B1&finfo=g7%2FnAkmHKb3yQIGBX5BimBFkPEpzHVjJogOyj8ARvI2RkV6EQPOhk2uLOzmGhqkzuF3v2VirWsMNg%2Bt037Px3gGDAyBbCGkY%2B%2BdRQGC4T%2Bnq7MUGTEMO7oK06ubD5Vj813laGVVl2CJFbu3jLwBdeEYTLaZ71K70V9BDcXLFIZ9jah9mKJumadhZBtEkb5VWRA1ZLfK7u%2BDC"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".ta http://cdn-1.lovetik.com/tiktok-dl.php?file=jaL%2FF1PZO6WzB8eYGMox3U57ZhwsBxqS%2FlbwwtQAvZKTj2nVBK%2BwtXaLPz%2BBgLcxpgm0jFzwEYJcx7B1ruu12g%3D%3D&finfo=g7jqCkXeWOWyFeTfB405xU5%2BKFh2HlzKrQCs1YtX6MLLkjSFRvvhkzbOYGjZ2eVuwXPCkwi5F5EOhuE%2F5bv1"
+      }
+    ]
+  },
+  {
+    "3EB0447D8337D5ACE786B6": [
+      {
+        "cmdId": "1",
+        "cmd": ".songdl https://youtube.com/watch?v=AtJP0aq5JQc"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".songdl https://youtube.com/watch?v=uTOwN3UQzXs"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".songdl https://youtube.com/watch?v=zU8TWtSU0uE"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".songdl https://youtube.com/watch?v=Pm77L5Loazc"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".songdl https://youtube.com/watch?v=Q4gR-87xQo8"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".songdl https://youtube.com/watch?v=pSQSf025z2w"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".songdl https://youtube.com/watch?v=1vEU8DJp1Wg"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".songdl https://youtube.com/watch?v=aHzmbfUzMRc"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".songdl https://youtube.com/watch?v=YKAak6Zqv30"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".songdl https://youtube.com/watch?v=R1YjSxKSD-8"
+      }
+    ]
+  },
+  {
+    "3EB067C3B3C3AD61033339": [
+      {
+        "cmdId": "1",
+        "cmd": ".yt1s https://youtube.com/watch?v=AtJP0aq5JQc & 1"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".yt1s https://youtube.com/watch?v=AtJP0aq5JQc & 2"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".yt1s https://youtube.com/watch?v=AtJP0aq5JQc & 3"
+      }
+    ]
+  },
+  {
+    "3EB0A69E4FD2EBB62CFE0B": [
+      {
+        "cmdId": "1",
+        "cmd": ".yt2s https://youtube.com/watch?v=AtJP0aq5JQc & 144"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".yt2s https://youtube.com/watch?v=AtJP0aq5JQc & 360"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".yt2s https://youtube.com/watch?v=AtJP0aq5JQc & 480"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".yt2s https://youtube.com/watch?v=AtJP0aq5JQc & 720"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".yt2s https://youtube.com/watch?v=AtJP0aq5JQc & 1080"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".yt3s https://youtube.com/watch?v=AtJP0aq5JQc & 144"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".yt3s https://youtube.com/watch?v=AtJP0aq5JQc & 360"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".yt3s https://youtube.com/watch?v=AtJP0aq5JQc & 480"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".yt3s https://youtube.com/watch?v=AtJP0aq5JQc & 720"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".yt3s https://youtube.com/watch?v=AtJP0aq5JQc & 1080"
+      }
+    ]
+  },
+  {
+    "3EB03205069237729EF47F": [
+      {
+        "cmdId": "1",
+        "cmd": ".movie https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".movie https://cinesubz.lk/movies/sarvam-maya-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".movie https://cinesubz.lk/movies/mastiii-4-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".movie https://cinesubz.lk/tvshows/the-girlfriend-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".movie https://cinesubz.lk/tvshows/the-copenhagen-test-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".movie https://cinesubz.lk/movies/anaconda-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".movie https://cinesubz.lk/movies/merrily-we-roll-along-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".movie https://cinesubz.lk/movies/zootopia-2-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".movie https://cinesubz.lk/movies/the-witcher-sirens-of-the-deep-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".movie https://cinesubz.lk/movies/the-orphans-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".movie https://cinesubz.lk/movies/the-mastermind-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "12",
+        "cmd": ".movie https://cinesubz.lk/movies/tere-ishk-mein-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "13",
+        "cmd": ".movie https://cinesubz.lk/movies/sirai-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "14",
+        "cmd": ".movie https://cinesubz.lk/movies/rippan-swamy-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "15",
+        "cmd": ".movie https://cinesubz.lk/movies/retta-thala-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "16",
+        "cmd": ".movie https://cinesubz.lk/movies/red-plague-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "17",
+        "cmd": ".movie https://cinesubz.lk/movies/randaam-yaamam-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "18",
+        "cmd": ".movie https://cinesubz.lk/movies/mark-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "19",
+        "cmd": ".movie https://cinesubz.lk/movies/itlu-me-yedhava-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "20",
+        "cmd": ".movie https://cinesubz.lk/movies/fall-for-me-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "21",
+        "cmd": ".movie https://cinesubz.lk/movies/ennitte-enthayi-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "22",
+        "cmd": ".movie https://cinesubz.lk/movies/dont-come-here-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "23",
+        "cmd": ".movie https://cinesubz.lk/movies/shambhala-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "24",
+        "cmd": ".movie https://cinesubz.lk/tvshows/the-hunting-party-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "25",
+        "cmd": ".movie https://cinesubz.lk/tvshows/idol-i-2025-tv-series-s01/ & TV Show"
+      },
+      {
+        "cmdId": "26",
+        "cmd": ".movie https://cinesubz.lk/tvshows/american-primeval-2025-tv-series/ & TV Show"
+      },
+      {
+        "cmdId": "27",
+        "cmd": ".movie https://cinesubz.lk/movies/the-spongebob-movie-search-for-squarepants-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "28",
+        "cmd": ".movie https://cinesubz.lk/movies/rental-family-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "29",
+        "cmd": ".movie https://cinesubz.lk/movies/murderer-report-2025-sinhala-subtitles/ & Movie"
+      },
+      {
+        "cmdId": "30",
+        "cmd": ".movie https://cinesubz.lk/movies/jigris-2025-sinhala-subtitles/ & Movie"
+      }
+    ]
+  },
+  {
+    "3EB08B4C6C40B511885F91": [
+      {
+        "cmdId": "1.1",
+        "cmd": ".download https://cinesubz.lk/zt-links/rkt0zo9t99/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 480p & pix"
+      },
+      {
+        "cmdId": "1.2",
+        "cmd": ".download https://cinesubz.lk/zt-links/vlqz2bmqnc/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 720p & pix"
+      },
+      {
+        "cmdId": "1.3",
+        "cmd": ".download https://cinesubz.lk/zt-links/ho4ut6ukfy/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 1080p & pix"
+      },
+      {
+        "cmdId": "2.1",
+        "cmd": ".download https://cinesubz.lk/zt-links/rkt0zo9t99/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 480p & google"
+      },
+      {
+        "cmdId": "2.2",
+        "cmd": ".download https://cinesubz.lk/zt-links/vlqz2bmqnc/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 720p & google"
+      },
+      {
+        "cmdId": "2.3",
+        "cmd": ".download https://cinesubz.lk/zt-links/ho4ut6ukfy/ & https://cinesubz.lk/movies/dhurandhar-2025-sinhala-subtitles/ & WEB-DL 1080p & google"
+      }
+    ]
+  },
+  {
+    "3EB0FEA8406971A2820240": [
+      {
+        "cmdId": "1",
+        "cmd": ".movie https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & TV Show"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".movie https://cinesubz.lk/tvshows/doona-2023-tv-season-01-complete/ & TV Show"
+      }
+    ]
+  },
+  {
+    "3EB071C7DED8F41A86099C": [
+      {
+        "cmdId": "1",
+        "cmd": ".cineshow 0 & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/"
+      }
+    ]
+  },
+  {
+    "3EB035F264C817A4B73C75": [
+      {
+        "cmdId": "1",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x1/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x2/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x3/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x4/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x5/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x6/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x7/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x8/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x9/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x10/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x11/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "12",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x12/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "13",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x13/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "14",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x14/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "15",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x15/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "16",
+        "cmd": ".downloadshowquality https://cinesubz.lk/episodes/vagabond-1x16/ & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      },
+      {
+        "cmdId": "17",
+        "cmd": ".downloadallshowquality 0 & https://cinesubz.lk/tvshows/vagabond-2019-tv-series-season-01-complete-with-sinhala-subtitles/ & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg"
+      }
+    ]
+  },
+  {
+    "3EB0D8A2107097EEDB3C24": [
+      {
+        "cmdId": "1.1",
+        "cmd": ".downloadshow https://cinesubz.lk/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/dbo5lml4af/ & https://cinesubz.lk/episodes/vagabond-1x1/ & 480p & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg & pix"
+      },
+      {
+        "cmdId": "1.2",
+        "cmd": ".downloadshow https://cinesubz.lk/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/moks7rervv/ & https://cinesubz.lk/episodes/vagabond-1x1/ & 720p & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg & pix"
+      },
+      {
+        "cmdId": "1.3",
+        "cmd": "noshow 1080p & https://cinesubz.lk/episodes/vagabond-1x1/"
+      },
+      {
+        "cmdId": "2.1",
+        "cmd": ".downloadshow https://cinesubz.lk/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/dbo5lml4af/ & https://cinesubz.lk/episodes/vagabond-1x1/ & 480p & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg & google"
+      },
+      {
+        "cmdId": "2.2",
+        "cmd": ".downloadshow https://cinesubz.lk/api-rwjdzuehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdruehbdrwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0auehbdrwjdzuehbwjdzuehbdzjyvxo2bhh0azjyvxo2bhh0a/moks7rervv/ & https://cinesubz.lk/episodes/vagabond-1x1/ & 720p & https://cinesubz.lk/wp-content/uploads/2022/09/Vagabond-TV-Series-Season-01-Complete.jpg & google"
+      },
+      {
+        "cmdId": "2.3",
+        "cmd": "noshow 1080p & https://cinesubz.lk/episodes/vagabond-1x1/"
+      }
+    ]
+  }
+]
